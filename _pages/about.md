@@ -11,4 +11,5 @@ I am a third-year Ph.D. student at Zhejiang University, based at the Center for 
 
 My research focuses on the intersection of **Computer Science, Social Science, and Quantitative Finance**, with an emphasis on fundamental computational approaches. Specifically, I am interested in **natural language processing (NLP), deep learning, reinforcement learning, agent-based modeling**, and **quantitative trading strategies**, and how these methods can be applied to analyze and model complex social and economic systems.
 
-You can contact me at: [zjulihongyang@gmail.com](mailto:zjulihongyang@gmail.com) or [hongyangli@zju.edu.cn](mailto:hongyangli@zju.edu.cn).
+You can contact me at: [zjulihongyang@gmail.com](mailto:zjulihongyang@gmail.com) or [hongyangli@zju.edu.cn](mailto:hongyangli@zju.edu.cn), and you can find my CV [here](../assets/resume_lihongyang 1.pdf) (only in Chinese now).
+
