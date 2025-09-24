@@ -42,6 +42,8 @@
     "vendor/font-awesome/brands"
 ;
 
-body {
-  font-family: Georgia, serif;
+/* 全站统一字体为 Georgia */
+body, h1, h2, h3, h4, h5, h6, p, a, li, span, div {
+  font-family: Georgia, serif !important;
 }
+
