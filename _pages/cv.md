@@ -21,8 +21,7 @@ Education
 Publication
 ======
 
-* **Hongyang Li**, Liurulin Ji, Jiayi Liao, Xuewen Li.  
-  *Exchange Rate Forecasting with Multi-scale Residual LSTM and Dual-task Learning*.  
+* *Exchange Rate Forecasting with Multi-scale Residual LSTM and Dual-task Learning*.  
   **Expert Systems with Applications**, 2026. SCI Q1 / Top Journal.  
   - Proposed a multi-scale residual LSTM with dual-task learning framework for exchange-rate forecasting and extreme-movement detection.  
   - Integrated macroeconomic variables and SHAP-based explainability to improve both predictive performance and interpretability.  
