@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at Zhejiang University, based at the Center for Interdisciplinary Studies of Humanities and Sciences. I received my B.Eng. degree in Automation from Harbin Institute of Technology in 2023, and have been pursuing my doctoral studies since then.
+I am a Ph.D. student at Zhejiang University, working on artificial intelligence, computational social science, and quantitative finance. I received my B.Eng. degree in Automation from Harbin Institute of Technology in 2023.
 
-My research focuses on the intersection of **Computer Science, Social Science, and Quantitative Finance**, with an emphasis on fundamental computational approaches. Specifically, I am interested in **natural language processing (NLP), deep learning, reinforcement learning, agent-based modeling**, and **quantitative trading strategies**, and how these methods can be applied to analyze and model complex social and economic systems.
+My research interests lie in **financial time-series modeling, deep learning, reinforcement learning, multi-agent systems, and interpretable financial AI**. I am especially interested in how computational and AI methods can be used to model complex financial markets, design adaptive trading systems, and support decision-making under uncertainty.
 
-You can contact me at: [zjulihongyang@gmail.com](mailto:zjulihongyang@gmail.com) or [hongyangli@zju.edu.cn](mailto:hongyangli@zju.edu.cn), and you can find my CV file here  ( [Chinese](../assets/resume_lihongyang_cn.pdf) / [English](../assets/resume_lihongyang_en.pdf) )
+My recent work includes **multi-scale residual LSTM models for exchange-rate forecasting**, **multi-agent quantitative trading systems**, and **prediction-market arbitrage models based on Polymarket**. I also work on related topics such as factor modeling, CTA and futures strategies, agent-based simulation, and LLM-based financial agents.
+
+You can contact me at [zjulihongyang@gmail.com](mailto:zjulihongyang@gmail.com) or [hongyangli@zju.edu.cn](mailto:hongyangli@zju.edu.cn). My CV is available here: [Chinese](../assets/resume_lihongyang_cn.pdf) / [English](../assets/resume_lihongyang_en.pdf).
 
