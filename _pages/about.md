@@ -13,5 +13,7 @@ My research interests lie in **financial time-series modeling, deep learning, re
 
 My recent work includes **multi-scale residual LSTM models for exchange-rate forecasting**, **multi-agent quantitative trading systems**, and **prediction-market arbitrage models based on Polymarket**. I also work on related topics such as factor modeling, CTA and futures strategies, agent-based simulation, and LLM-based financial agents.
 
+In addition to academic research, I am also exploring the practical deployment of AI-driven financial systems through AIYI Technology (杭州爱怡算法科技有限公司), a technology initiative focused on AI software, quantitative intelligence, financial agents, and enterprise-level data analysis systems. More information is available at a[aiyitech.top](aiyitech.top)⁠￼.
+
 You can contact me at [zjulihongyang@gmail.com](mailto:zjulihongyang@gmail.com) or [hongyangli@zju.edu.cn](mailto:hongyangli@zju.edu.cn). My CV is available here: [Chinese](../assets/resume_lihongyang_cn.pdf) / [English](../assets/resume_lihongyang_en.pdf).
 
